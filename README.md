@@ -24,4 +24,4 @@ Repository ini adalah berisi penyelesaian dari Lab yang terdapat pada netacad, d
 7. Ping PC-B ke Router
 <img width="667" height="661" alt="image" src="https://github.com/user-attachments/assets/ecb0fbe4-929e-437b-82aa-06d083435802" />
 
-8. Link YT: [https://youtu.be/ZRq4v_K3VmA](url)
+8. Link YT:https://youtu.be/ZRq4v_K3VmA
