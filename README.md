@@ -5,9 +5,11 @@ Repository ini adalah berisi penyelesaian dari Lab yang terdapat pada netacad, d
 
 Ping yang belum berhasil:
 <img width="936" height="407" alt="image" src="https://github.com/user-attachments/assets/8b42e1c4-ae29-449f-9bb4-9aa43b6f84c3" />
+
 Ping tersebut merupakan ping PC-A ke PC-B, dan hasil dari pingnya gagal, hal tersebut dikarenakan:
 1. Router belum aktif di beberapa portnya
 2. Router belum di konfigurasi dengan memasukkan ip sebagai default gateway untuk menghubungkan antar jaringan yang merupakan sebagai jembatan untuk berkomunikasi
+
 
 1. Topology Jaringan
 <img width="555" height="179" alt="image" src="https://github.com/user-attachments/assets/a8256f1d-335d-43a4-8cf9-0f6d9bd0e939" />
